@@ -7,3 +7,7 @@ int main() {
 
 	return 0;
 }
+
+int test() {
+
+printf("theykby2030")}
